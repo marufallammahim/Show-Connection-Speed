@@ -2,6 +2,6 @@
   "uuid": "network-speed@marufallammahim.github.io",
   "name": "Network Speed",
   "description": "Shows live download and upload speed in the top panel.\n\nReads local Linux network counters only. It makes no network requests.",
-  "shell-version": ["51"],
+  "shell-version": ["45", "46", "47", "48", "49", "50", "51"],
   "url": "https://github.com/marufallammahim"
 }
